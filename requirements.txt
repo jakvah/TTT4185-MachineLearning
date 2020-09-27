@@ -1,0 +1,9 @@
+# Required dependencies for Jupyter
+jupyterlab
+notebook
+
+# Required dependencies for task 1
+scipy
+matplotlib
+numpy
+pysptk
